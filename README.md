@@ -1,4 +1,8 @@
-## js.cookie
+### Install
+
+```
+npm install js.cookie --save
+```
 
 ### Usage
 
