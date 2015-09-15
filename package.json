@@ -1,6 +1,6 @@
 {
   "name": "js.cookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Object to work with cookies",
   "main": "./dst/Cookie.js",
   "scripts": {
