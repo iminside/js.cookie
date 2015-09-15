@@ -1,0 +1,17 @@
+{
+  "name": "js.cookie",
+  "version": "0.0.1",
+  "description": "Object to work with cookies",
+  "main": "./dst/Cookie.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "Denis Churbanov",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  },
+  "dependencies": {
+  }
+}
