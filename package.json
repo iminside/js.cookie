@@ -1,9 +1,14 @@
 {
   "name": "js.cookie",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Object to work with cookies",
   "main": "./dst/Cookie.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/4urbanoff/js.cookie.git"
+  },
   "scripts": {
+    "start": "gulp",
     "build": "gulp build"
   },
   "author": "Denis Churbanov",
